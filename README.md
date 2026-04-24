@@ -5,7 +5,7 @@
 I am Alessandro Russo, student from the 42 school.
 I love C and low level system programming, and to build games/apps in my free time.
 
-## Directories
+## Main Directories
 
 | Project | Description | GitHub |
 | --- | --- | --- |
